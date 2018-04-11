@@ -1,16 +1,17 @@
 package pl.edu.ur.kolo1;
 
-/**
- *
- * @author mchyla
- */
-public class Main {
+import java.util.Scanner;
+import static zadanie2.Main.fib;
 
-    /**
-     * @param args the command line arguments
-     */
+public class Main {
+    
+   
+
+   
     public static void main(String[] args) {
-        // TODO Uruchomienie zadań/stworzenie i działanie na obiektach
+        
+      
+        
     }
     
 }
